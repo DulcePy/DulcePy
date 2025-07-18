@@ -1,6 +1,10 @@
 ## 👋 Hey, I'm Dulce Figueredo!
 ✨ I am a Computer Engineer from Paraguay 🇵🇾 with a passion for developing web and mobile applications.
 
+📌 I stand out for designing intuitive and adaptable digital solutions, always focused on delivering an excellent user experience.
+
+🛠 I am passionate about continuous learning and problem-solving, which drives me to stay updated and overcome technical challenges.
+
 ## 🔗 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulce-figueredo-py/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dulcefigueredopy@gmail.com) [![portfolio](https://img.shields.io/badge/my_portfolio-00?logo=ko-fi&logoColor=white)](https://dulcepy-dev.netlify.app/)
 
